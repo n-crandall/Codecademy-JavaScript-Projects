@@ -1,4 +1,4 @@
-// Write your function
+// function
 const toEmoticon = expression => {
     switch (expression) {
       case 'shrug':
@@ -20,6 +20,4 @@ const toEmoticon = expression => {
     // Uncomment the line below when you're ready to try out your function
     // console.log(toEmoticon("whatever")) 
     // Should print  '|_(* ~ *)_|'
-    
-    // We encourage you to add more function calls of your own to test your code!
     

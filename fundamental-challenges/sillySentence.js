@@ -1,0 +1,12 @@
+// function here:
+const sillySentence = (adjective, verb, noun) => {
+    return `I am so ${adjective} because I ${verb} coding! Time to write some more awesome ${noun}!`;
+   }
+   
+   console.log(sillySentence('excited', 'love', 'functions'));
+   
+   
+   
+   // Uncomment the line below when you're ready to try out your function
+   // console.log(sillySentence('excited', 'love', 'functions')) 
+   
